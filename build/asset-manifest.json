@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.094ade74.css",
+    "main.js": "/static/js/main.3f05c6de.js",
+    "static/js/85.14867532.chunk.js": "/static/js/85.14867532.chunk.js",
+    "static/js/560.22c73f41.chunk.js": "/static/js/560.22c73f41.chunk.js",
+    "static/js/326.4696f015.chunk.js": "/static/js/326.4696f015.chunk.js",
+    "static/js/238.c5d12b22.chunk.js": "/static/js/238.c5d12b22.chunk.js",
+    "static/js/298.c4d5cb3b.chunk.js": "/static/js/298.c4d5cb3b.chunk.js",
+    "static/js/808.ddda2af7.chunk.js": "/static/js/808.ddda2af7.chunk.js",
+    "static/js/712.c6c527fb.chunk.js": "/static/js/712.c6c527fb.chunk.js",
+    "static/media/downloadWhatsapp.png": "/static/media/downloadWhatsapp.73da2c5c5879eceffaff.png",
+    "static/media/whatsapp_def_theme.jpg": "/static/media/whatsapp_def_theme.b1c08fff4eae0bafa6f0.jpg",
+    "static/media/audio.png": "/static/media/audio.d301e52ecb6157a8ee3a.png",
+    "static/media/rar.png": "/static/media/rar.fb9ec333904a5f9d7e70.png",
+    "static/media/xls.png": "/static/media/xls.6d80ca148dd8b0a054fa.png",
+    "static/media/video.png": "/static/media/video.65e3d9700bef7e566d80.png",
+    "static/media/pdf.png": "/static/media/pdf.46de44589ccd9c856deb.png",
+    "static/media/zip.png": "/static/media/zip.6b513a027be1fed56ad2.png",
+    "index.html": "/index.html",
+    "main.094ade74.css.map": "/static/css/main.094ade74.css.map",
+    "main.3f05c6de.js.map": "/static/js/main.3f05c6de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094ade74.css",
+    "static/js/main.3f05c6de.js"
+  ]
+}

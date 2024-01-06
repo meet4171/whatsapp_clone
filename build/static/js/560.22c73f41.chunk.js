@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhatsapp_clone_frontend=self.webpackChunkwhatsapp_clone_frontend||[]).push([[560],{9560:(e,p,c)=>{e.exports=c.p+"static/media/pdf.46de44589ccd9c856deb.png"}}]);

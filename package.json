@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.478.0",
+    "aws-sdk": "^2.1525.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "gridfs-stream": "^1.1.1",
+    "mongodb": "^5.9.1",
+    "mongoose": "^8.0.2",
+    "multer": "^1.4.5-lts.1",
+    "multer-gridfs-storage": "^5.0.2",
+    "socket.io": "^4.7.2"
+  },
+  "scripts": {
+    "start": "npm-run-all --parallel start:main start:socket",
+  "start:main": "nodemon server.js",
+  "start:socket": "nodemon socket/index.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
