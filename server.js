@@ -42,6 +42,7 @@ server.get('/*', function (req, res) {
 const io = new Server(httpServer, {
   cors: {
     origin: ['http://localhost:3000', 'http://localhost:8080','https://whatsapp-clone-w9su.onrender.com'],
+    transports: ['websocket']
   }
 });
 
